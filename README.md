@@ -71,4 +71,4 @@ Run the batch bash script (in same directory as the images)
 
 What will happen:
 
-<video src='https://youtu.be/ofXlMjnEmdQ' width=180/>
+[<img src="https://img.youtube.com/vi/ofXlMjnEmdQ/maxresdefault.jpg" width="50%">](https://youtu.be/ofXlMjnEmdQ)
