@@ -10,6 +10,8 @@ I created these scripts to add information to photos of dishes from restaurants.
 Specifically, I am exploring the world of Asian cuisine and created this system for a photo album where each
 dish is labeled with its (1) name, (2) restauarant, and (3) city. 
 
+**Photo Album:** [2023 Spring - Houston Chinatown Food Adventures](https://photos.app.goo.gl/VHv1u7wzcgtSVLkp6)
+
 ### Before:
 
 ![Unlabeled image](taiwan-style_egg_custard__Six_Ping_Bakery__Houston,_TX.jpg)
