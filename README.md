@@ -53,7 +53,7 @@ Add files with this format:
   - words are separated by a single `_`.
   - lines are separated by a double `__`.
   - the filetype is always `.jpg`.
-  - If you need to duplicate the text, you can add `-NUMBER` before `.jpg`.
+  - If you need to duplicate the text, you can add `-NUMBER` before `.jpg` (e.g. `-2.jpg`)
 
 Example, the file: `taiwan-style_egg_custard__Six_Ping_Bakery__Houston,_TX.jpg`
 
