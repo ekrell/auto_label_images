@@ -1,14 +1,14 @@
 # auto_label_images
 
-- This repo contains 2 scripts that I use to add a textbox to a batch of images
-- The textbox is a located in the bottom-left corner
+- This repo contains 2 scripts that I use to add a textbox to a batch of images.
+- The textbox is located in the bottom-left corner.
 - There are 2 scripts:
-  - `add_btmleft_image_text.py`: a generic script for adding the textbox to a single image
-  - `auto_label_by_filename.sh`: a NOT generic script for labeling a batch of images in a directory based on their filename
+  - `add_btmleft_image_text.py`: a generic script for adding the textbox to a single image.
+  - `auto_label_by_filename.sh`: a NOT generic script for labeling a batch of images in a directory based on their filename.
 
 I created these scripts to add information to photos of dishes from restaurants.
 Specifically, I am exploring the world of Asian cuisine and created this system for a photo album where each
-dish is labeled with its (1) name, (2) restauarant, (3) city. 
+dish is labeled with its (1) name, (2) restauarant, and (3) city. 
 
 ### Before:
 
