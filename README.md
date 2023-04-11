@@ -4,7 +4,7 @@
 - The textbox is located in the bottom-left corner.
 - There are 2 scripts:
   - `add_btmleft_image_text.py`: a generic script for adding the textbox to a single image.
-  - `auto_label_by_filename.sh`: a NOT generic script for labeling a batch of images in a directory based on their filename.
+  - `auto_label_by_filename.bash`: a NOT generic script for labeling a batch of images in a directory based on their filename.
 
 I created these scripts to add information to photos of dishes from restaurants.
 Specifically, I am exploring the world of Asian cuisine and created this system for a photo album where each
@@ -32,7 +32,7 @@ Since this Python script is generic (any number of lines, etc), I place this in 
 
 I use the font [_Comfortaa_](https://fonts.google.com/specimen/Comfortaa) to create the labels. You can use any TrueType (.ttf) font, but must supply the path.
 
-Either way, you **must** edit the `file_font` within `auto_label_by_filename.sh` to the path of a TrueType font on your system.
+Either way, you **must** edit the `file_font` within `auto_label_by_filename.bash` to the path of a TrueType font on your system.
 
 **Option A: label a single image**
 
@@ -69,7 +69,7 @@ And if it is a duplicate text, then the filename could be: `taiwan-style_egg_cus
     
 Run the batch bash script (in same directory as the images)
 
-    auto_label_by_filename.sh
+    auto_label_by_filename.bash
 
 What will happen:
 
